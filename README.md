@@ -1,15 +1,19 @@
-# assignment
+# GDSC CLOUD TASK: Containerizing an Express and Node.js HTTP Server
 
-To install dependencies:
+In this task, you will containerize a simple HTTP server built with Express and Node.js and publish the Docker image to DockerHub. Follow these steps to complete the task:
 
-```bash
-bun install
-```
+## Step 1: Prerequisites
 
-To run:
+Make sure you have the following prerequisites installed on your system:
+1. NodeJS
+2. Docker
 
-```bash
-bun run index.ts
-```
+## Step 2: Clone the Repository
 
-This project was created using `bun init` in bun v1.0.4. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Clone the repo locally using git
+
+## TASK 1: Containerize the server
+
+## TASK 2: Build docker imager and push to DockerHub
+
+**Ensure that Repo on dockerhub is public**
